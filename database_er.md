@@ -1,45 +1,69 @@
 Here is the climate ER diagram 
 <img width="906" height="646" alt="image" src="https://github.com/user-attachments/assets/15d3810e-4036-4a30-a70d-99acd7820db3" />
 # Final Normalized Relational Schema (BCNF)
+# Final Relational Schema (After Normalization)
+
+Below is the final version of the relational schema after checking for BCNF.
+
+---
 
 ## Country
-ISO3 (PK)
-CountryName
-ISO2
+ISO3 (Primary Key)  
+CountryName  
+ISO2  
+
+---
 
 ## CountryProfile
-ISO3 (PK, FK → Country.ISO3)
-Region
-IncomeLevel
-ClimateZone
+ISO3 (Primary Key, also Foreign Key → Country.ISO3)  
+Region  
+IncomeLevel  
+ClimateZone  
+
+---
 
 ## Indicator
-CTSCode (PK)
-IndicatorName
-Unit
-Source
-CTSFullDescriptor
+CTSCode (Primary Key)  
+IndicatorName  
+Unit  
+Source  
+CTSFullDescriptor  
+
+---
 
 ## Year
-YearID (PK)
-YearValue
+YearID (Primary Key)  
+YearValue  
+
+---
 
 ## ClimateMeasurement
-ISO3 (PK, FK → Country.ISO3)
-CTSCode (PK, FK → Indicator.CTSCode)
-YearID (PK, FK → Year.YearID)
-Measurements
+ISO3 (Foreign Key → Country.ISO3)  
+CTSCode (Foreign Key → Indicator.CTSCode)  
+YearID (Foreign Key → Year.YearID)  
+Measurements  
 
 Primary Key: (ISO3, CTSCode, YearID)
 
-## DataRevision
-RevisionNumber (PK)
-ISO3 (FK → ClimateMeasurement.ISO3)
-CTSCode (FK → ClimateMeasurement.CTSCode)
-YearID (FK → ClimateMeasurement.YearID)
-RevisionDate
-Notes
+---
 
-All relations were checked for BCNF.
-For every nontrivial functional dependency X → Y, X is a candidate key.
-No decomposition was required.
+## DataRevision
+RevisionNumber (Primary Key)  
+ISO3  
+CTSCode  
+YearID  
+RevisionDate  
+Notes  
+
+Foreign Key: (ISO3, CTSCode, YearID)  
+References ClimateMeasurement(ISO3, CTSCode, YearID)
+
+---
+
+## Normalization Summary
+
+Each table was checked for nontrivial functional dependencies.  
+In every case, the determinant of each dependency is a primary key.  
+
+Because of this, all relations satisfy Boyce-Codd Normal Form (BCNF).  
+No additional decomposition was needed and no redundancy exists in the schema.
