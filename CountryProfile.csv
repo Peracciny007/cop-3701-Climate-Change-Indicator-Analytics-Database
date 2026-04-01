@@ -1,0 +1,225 @@
+ISO3,Region,IncomeLevel,ClimateZone
+AFG,Americas,High,Dry
+ALB,Africa,High,Tropical
+DZA,Asia,Upper middle,Continental
+ASM,Asia,Lower middle,Continental
+AND,Americas,Lower middle,Continental
+AGO,Asia,Low,Temperate
+AIA,Oceania,Low,Continental
+ATG,Europe,Upper middle,Dry
+ARG,Americas,Lower middle,Dry
+ARM,Africa,Upper middle,Temperate
+ABW,Oceania,Upper middle,Continental
+AUS,Americas,Lower middle,Tropical
+AUT,Oceania,Low,Temperate
+AZE,Oceania,Low,Tropical
+BHS,Africa,Lower middle,Polar
+BHR,Asia,Low,Polar
+BGD,Europe,Low,Continental
+BRB,Oceania,High,Polar
+BLR,Americas,Lower middle,Dry
+BEL,Americas,Upper middle,Tropical
+BLZ,Europe,Lower middle,Continental
+BEN,Asia,High,Continental
+BTN,Europe,Lower middle,Continental
+BOL,Oceania,Low,Continental
+BIH,Americas,Lower middle,Tropical
+BWA,Oceania,High,Tropical
+BRA,Africa,High,Polar
+VGB,Europe,Lower middle,Continental
+BRN,Africa,Low,Dry
+BGR,Americas,Lower middle,Temperate
+BFA,Europe,Low,Continental
+BDI,Americas,High,Polar
+CPV,Europe,Lower middle,Tropical
+KHM,Americas,Lower middle,Polar
+CMR,Africa,Upper middle,Continental
+CAN,Africa,Upper middle,Continental
+CYM,Americas,Lower middle,Temperate
+CAF,Oceania,Lower middle,Dry
+TCD,Asia,Lower middle,Continental
+CHL,Americas,High,Continental
+HKG,Africa,Low,Polar
+MAC,Europe,High,Dry
+CHN,Americas,Upper middle,Dry
+COL,Americas,Upper middle,Tropical
+COM,Oceania,Upper middle,Tropical
+COD,Africa,Lower middle,Tropical
+COG,Europe,Upper middle,Temperate
+COK,Americas,Lower middle,Polar
+CRI,Americas,Lower middle,Tropical
+HRV,Europe,Low,Temperate
+CUB,Asia,Low,Continental
+CYP,Africa,Upper middle,Dry
+CZE,Africa,Low,Temperate
+DNK,Oceania,High,Dry
+DJI,Americas,Low,Polar
+DMA,Asia,Lower middle,Continental
+DOM,Oceania,High,Tropical
+ECU,Americas,Lower middle,Continental
+EGY,Africa,Low,Continental
+SLV,Americas,Low,Polar
+GNQ,Africa,High,Continental
+ERI,Oceania,Low,Temperate
+EST,Africa,Lower middle,Polar
+SWZ,Americas,Upper middle,Polar
+ETH,Europe,Low,Dry
+FLK,Americas,Lower middle,Continental
+FRO,Americas,Upper middle,Continental
+FJI,Africa,Upper middle,Dry
+FIN,Africa,Upper middle,Tropical
+FRA,Oceania,Lower middle,Temperate
+PYF,Africa,Lower middle,Dry
+GAB,Africa,Lower middle,Tropical
+GMB,Americas,Lower middle,Tropical
+GEO,Americas,Low,Dry
+DEU,Europe,High,Dry
+GHA,Americas,High,Continental
+GIB,Oceania,Lower middle,Dry
+GRC,Africa,Low,Tropical
+GRL,Americas,Upper middle,Continental
+GRD,Asia,Lower middle,Continental
+GLP,Oceania,Low,Tropical
+GTM,Oceania,Upper middle,Polar
+GUF,Europe,Low,Continental
+GIN,Europe,Lower middle,Continental
+GNB,Asia,Low,Tropical
+GUY,Africa,Low,Temperate
+HTI,Americas,Low,Tropical
+VAT,Europe,Low,Continental
+HND,Europe,Lower middle,Polar
+HUN,Asia,Upper middle,Polar
+ISL,Europe,Low,Tropical
+IND,Asia,Lower middle,Dry
+IDN,Americas,Upper middle,Tropical
+IRN,Europe,Lower middle,Dry
+IRQ,Africa,High,Dry
+IRL,Asia,Lower middle,Continental
+IMN,Oceania,Lower middle,Tropical
+ISR,Europe,High,Continental
+ITA,Asia,High,Polar
+JAM,Asia,Lower middle,Temperate
+JPN,Africa,Upper middle,Temperate
+JOR,Asia,Upper middle,Tropical
+KAZ,Asia,Lower middle,Dry
+KEN,Americas,Lower middle,Continental
+KIR,Europe,Lower middle,Polar
+PRK,Oceania,High,Temperate
+KOR,Asia,Lower middle,Temperate
+KWT,Asia,High,Polar
+KGZ,Europe,Upper middle,Continental
+LAO,Asia,Lower middle,Dry
+LVA,Europe,Upper middle,Tropical
+LBN,Asia,High,Polar
+LSO,Europe,Low,Polar
+LBR,Americas,Lower middle,Polar
+LBY,Asia,Low,Temperate
+LIE,Africa,High,Tropical
+LTU,Africa,Upper middle,Tropical
+LUX,Oceania,High,Continental
+MDG,Africa,Low,Continental
+MWI,Asia,Lower middle,Continental
+MYS,Americas,Low,Temperate
+MDV,Africa,High,Polar
+MLI,Americas,Lower middle,Polar
+MLT,Americas,Lower middle,Temperate
+MHL,Oceania,Low,Tropical
+MTQ,Asia,High,Tropical
+MRT,Oceania,Lower middle,Continental
+MUS,Europe,Low,Polar
+MYT,Africa,High,Continental
+MEX,Europe,High,Polar
+FSM,Americas,Low,Continental
+MDA,Asia,High,Continental
+MCO,Africa,Lower middle,Continental
+MNG,Africa,Low,Temperate
+MNE,Oceania,Low,Temperate
+MSR,Asia,High,Continental
+MAR,Americas,High,Polar
+MOZ,Europe,High,Polar
+MMR,Africa,High,Dry
+NRU,Americas,Upper middle,Polar
+NPL,Americas,Lower middle,Polar
+NLD,Oceania,Upper middle,Tropical
+NCL,Europe,Low,Tropical
+NZL,Oceania,Low,Dry
+NIC,Asia,Lower middle,Polar
+NER,Asia,Upper middle,Polar
+NGA,Africa,Low,Tropical
+NIU,Americas,Lower middle,Continental
+NFK,Europe,Lower middle,Temperate
+MKD,Oceania,Upper middle,Polar
+NOR,Europe,Low,Temperate
+OMN,Asia,Low,Continental
+PAK,Africa,Lower middle,Tropical
+PLW,Europe,Upper middle,Dry
+PAN,Americas,Upper middle,Tropical
+PNG,Americas,High,Tropical
+PRY,Americas,Upper middle,Dry
+PER,Oceania,Upper middle,Tropical
+PHL,Asia,Low,Temperate
+PCN,Oceania,Lower middle,Continental
+POL,Africa,High,Continental
+PRT,Europe,Low,Tropical
+PRI,Asia,High,Continental
+QAT,Americas,Lower middle,Dry
+ROU,Europe,Lower middle,Tropical
+RUS,Oceania,Lower middle,Dry
+RWA,Africa,High,Dry
+SPM,Africa,Low,Temperate
+WSM,Africa,Low,Polar
+SMR,Americas,High,Dry
+STP,Oceania,Lower middle,Temperate
+SAU,Asia,Lower middle,Tropical
+SEN,Americas,High,Dry
+SRB,Asia,Low,Temperate
+SYC,Oceania,Upper middle,Dry
+SLE,Europe,High,Polar
+SGP,Africa,Lower middle,Dry
+SVK,Asia,Upper middle,Temperate
+SVN,Americas,Low,Temperate
+SLB,Americas,Lower middle,Dry
+SOM,Europe,Upper middle,Dry
+ZAF,Asia,Lower middle,Polar
+SSD,Asia,Low,Polar
+ESP,Oceania,Upper middle,Polar
+LKA,Oceania,Lower middle,Temperate
+KNA,Asia,Upper middle,Polar
+LCA,Oceania,Upper middle,Temperate
+VCT,Africa,Upper middle,Temperate
+SDN,Oceania,Upper middle,Dry
+SUR,Oceania,Upper middle,Polar
+SJM,Europe,Low,Polar
+SWE,Africa,Upper middle,Tropical
+CHE,Africa,High,Polar
+SYR,Americas,Upper middle,Tropical
+TWN,Oceania,Upper middle,Dry
+TJK,Europe,High,Tropical
+TZA,Americas,Low,Polar
+THA,Africa,Upper middle,Tropical
+TLS,Americas,Upper middle,Continental
+TGO,Europe,High,Polar
+TKL,Africa,Low,Tropical
+TON,Oceania,Upper middle,Tropical
+TTO,Europe,Lower middle,Dry
+TUN,Americas,High,Dry
+TKM,Asia,Upper middle,Dry
+TCA,Oceania,Lower middle,Continental
+TUV,Africa,High,Dry
+UGA,Europe,Upper middle,Continental
+UKR,Americas,Low,Tropical
+ARE,Africa,Lower middle,Dry
+GBR,Africa,High,Dry
+USA,Asia,Low,Temperate
+VIR,Americas,Lower middle,Tropical
+URY,Asia,High,Tropical
+UZB,Africa,Low,Tropical
+VUT,Europe,Low,Continental
+VEN,Europe,Low,Continental
+VNM,Europe,Low,Tropical
+WLF,Europe,Upper middle,Tropical
+PSE,Europe,Lower middle,Dry
+ESH,Asia,Lower middle,Polar
+YEM,Europe,Low,Polar
+ZMB,Oceania,Low,Tropical
+ZWE,Oceania,Upper middle,Tropical

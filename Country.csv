@@ -1,0 +1,225 @@
+Country,ISO2,ISO3
+"Afghanistan, Islamic Rep. of",AF,AFG
+Albania,AL,ALB
+Algeria,DZ,DZA
+American Samoa,AS,ASM
+"Andorra, Principality of",AD,AND
+Angola,AO,AGO
+Anguilla,AI,AIA
+Antigua and Barbuda,AG,ATG
+Argentina,AR,ARG
+"Armenia, Rep. of",AM,ARM
+"Aruba, Kingdom of the Netherlands",AW,ABW
+Australia,AU,AUS
+Austria,AT,AUT
+"Azerbaijan, Rep. of",AZ,AZE
+"Bahamas, The",BS,BHS
+"Bahrain, Kingdom of",BH,BHR
+Bangladesh,BD,BGD
+Barbados,BB,BRB
+"Belarus, Rep. of",BY,BLR
+Belgium,BE,BEL
+Belize,BZ,BLZ
+Benin,BJ,BEN
+Bhutan,BT,BTN
+Bolivia,BO,BOL
+Bosnia and Herzegovina,BA,BIH
+Botswana,BW,BWA
+Brazil,BR,BRA
+British Virgin Islands,VG,VGB
+Brunei Darussalam,BN,BRN
+Bulgaria,BG,BGR
+Burkina Faso,BF,BFA
+Burundi,BI,BDI
+Cabo Verde,CV,CPV
+Cambodia,KH,KHM
+Cameroon,CM,CMR
+Canada,CA,CAN
+Cayman Islands,KY,CYM
+Central African Rep.,CF,CAF
+Chad,TD,TCD
+Chile,CL,CHL
+"China, P.R.: Hong Kong",HK,HKG
+"China, P.R.: Macao",MO,MAC
+"China, P.R.: Mainland",CN,CHN
+Colombia,CO,COL
+"Comoros, Union of the",KM,COM
+"Congo, Dem. Rep. of the",CD,COD
+"Congo, Rep. of",CG,COG
+Cook Islands,CK,COK
+Costa Rica,CR,CRI
+"Croatia, Rep. of",HR,HRV
+Cuba,CU,CUB
+Cyprus,CY,CYP
+Czech Rep.,CZ,CZE
+Denmark,DK,DNK
+Djibouti,DJ,DJI
+Dominica,DM,DMA
+Dominican Rep.,DO,DOM
+Ecuador,EC,ECU
+"Egypt, Arab Rep. of",EG,EGY
+El Salvador,SV,SLV
+"Equatorial Guinea, Rep. of",GQ,GNQ
+"Eritrea, The State of",ER,ERI
+"Estonia, Rep. of",EE,EST
+"Eswatini, Kingdom of",SZ,SWZ
+"Ethiopia, The Federal Dem. Rep. of",ET,ETH
+Falkland Islands (Malvinas),FK,FLK
+Faroe Islands,FO,FRO
+"Fiji, Rep. of",FJ,FJI
+Finland,FI,FIN
+France,FR,FRA
+French Polynesia,PF,PYF
+Gabon,GA,GAB
+"Gambia, The",GM,GMB
+Georgia,GE,GEO
+Germany,DE,DEU
+Ghana,GH,GHA
+Gibraltar,GI,GIB
+Greece,GR,GRC
+Greenland,GL,GRL
+Grenada,GD,GRD
+Guadeloupe,GP,GLP
+Guatemala,GT,GTM
+"Guiana, French",GF,GUF
+Guinea,GN,GIN
+Guinea-Bissau,GW,GNB
+Guyana,GY,GUY
+Haiti,HT,HTI
+Holy See,VA,VAT
+Honduras,HN,HND
+Hungary,HU,HUN
+Iceland,IS,ISL
+India,IN,IND
+Indonesia,ID,IDN
+"Iran, Islamic Rep. of",IR,IRN
+Iraq,IQ,IRQ
+Ireland,IE,IRL
+Isle of Man,IM,IMN
+Israel,IL,ISR
+Italy,IT,ITA
+Jamaica,JM,JAM
+Japan,JP,JPN
+Jordan,JO,JOR
+"Kazakhstan, Rep. of",KZ,KAZ
+Kenya,KE,KEN
+Kiribati,KI,KIR
+"Korea, Dem. People's Rep. of",KP,PRK
+"Korea, Rep. of",KR,KOR
+Kuwait,KW,KWT
+Kyrgyz Rep.,KG,KGZ
+Lao People's Dem. Rep.,LA,LAO
+Latvia,LV,LVA
+Lebanon,LB,LBN
+"Lesotho, Kingdom of",LS,LSO
+Liberia,LR,LBR
+Libya,LY,LBY
+Liechtenstein,LI,LIE
+Lithuania,LT,LTU
+Luxembourg,LU,LUX
+"Madagascar, Rep. of",MG,MDG
+Malawi,MW,MWI
+Malaysia,MY,MYS
+Maldives,MV,MDV
+Mali,ML,MLI
+Malta,MT,MLT
+"Marshall Islands, Rep. of the",MH,MHL
+Martinique,MQ,MTQ
+"Mauritania, Islamic Rep. of",MR,MRT
+Mauritius,MU,MUS
+Mayotte,YT,MYT
+Mexico,MX,MEX
+"Micronesia, Federated States of",FM,FSM
+"Moldova, Rep. of",MD,MDA
+Monaco,MC,MCO
+Mongolia,MN,MNG
+Montenegro,ME,MNE
+Montserrat,MS,MSR
+Morocco,MA,MAR
+"Mozambique, Rep. of",MZ,MOZ
+Myanmar,MM,MMR
+"Nauru, Rep. of",NR,NRU
+Nepal,NP,NPL
+"Netherlands, The",NL,NLD
+New Caledonia,NC,NCL
+New Zealand,NZ,NZL
+Nicaragua,NI,NIC
+Niger,NE,NER
+Nigeria,NG,NGA
+Niue,NU,NIU
+Norfolk Island,NF,NFK
+"North Macedonia, Republic of ",MK,MKD
+Norway,NO,NOR
+Oman,OM,OMN
+Pakistan,PK,PAK
+"Palau, Rep. of",PW,PLW
+Panama,PA,PAN
+Papua New Guinea,PG,PNG
+Paraguay,PY,PRY
+Peru,PE,PER
+Philippines,PH,PHL
+Pitcairn Islands,PN,PCN
+"Poland, Rep. of",PL,POL
+Portugal,PT,PRT
+Puerto Rico,PR,PRI
+Qatar,QA,QAT
+Romania,RO,ROU
+Russian Federation,RU,RUS
+Rwanda,RW,RWA
+Saint Pierre and Miquelon,PM,SPM
+Samoa,WS,WSM
+"San Marino, Rep. of",SM,SMR
+"São Tomé and Príncipe, Dem. Rep. of",ST,STP
+Saudi Arabia,SA,SAU
+Senegal,SN,SEN
+"Serbia, Rep. of",RS,SRB
+Seychelles,SC,SYC
+Sierra Leone,SL,SLE
+Singapore,SG,SGP
+Slovak Rep.,SK,SVK
+"Slovenia, Rep. of",SI,SVN
+Solomon Islands,SB,SLB
+Somalia,SO,SOM
+South Africa,ZA,ZAF
+"South Sudan, Rep. of",SS,SSD
+Spain,ES,ESP
+Sri Lanka,LK,LKA
+St. Kitts and Nevis,KN,KNA
+St. Lucia,LC,LCA
+St. Vincent and the Grenadines,VC,VCT
+Sudan,SD,SDN
+Suriname,SR,SUR
+Svalbard Jan Mayen Islands,SJ,SJM
+Sweden,SE,SWE
+Switzerland,CH,CHE
+Syrian Arab Rep.,SY,SYR
+Taiwan Province of China,TW,TWN
+"Tajikistan, Rep. of",TJ,TJK
+"Tanzania, United Rep. of",TZ,TZA
+Thailand,TH,THA
+"Timor-Leste, Dem. Rep. of",TL,TLS
+Togo,TG,TGO
+Tokelau,TK,TKL
+Tonga,TO,TON
+Trinidad and Tobago,TT,TTO
+Tunisia,TN,TUN
+Turkmenistan,TM,TKM
+Turks and Caicos Islands,TC,TCA
+Tuvalu,TV,TUV
+Uganda,UG,UGA
+Ukraine,UA,UKR
+United Arab Emirates,AE,ARE
+United Kingdom,GB,GBR
+United States,US,USA
+United States Virgin Islands,VI,VIR
+Uruguay,UY,URY
+"Uzbekistan, Rep. of",UZ,UZB
+Vanuatu,VU,VUT
+"Venezuela, Rep. Bolivariana de",VE,VEN
+Vietnam,VN,VNM
+Wallis and Futuna Islands,WF,WLF
+West Bank and Gaza,PS,PSE
+Western Sahara,EH,ESH
+"Yemen, Rep. of",YE,YEM
+Zambia,ZM,ZMB
+Zimbabwe,ZW,ZWE
