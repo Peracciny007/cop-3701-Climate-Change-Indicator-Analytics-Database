@@ -23,7 +23,7 @@ CTSFullDescriptor
 ClimateMeasurement
 ISO3 (Foreign Key → Country.ISO3)
 CTSCode (Foreign Key → Indicator.CTSCode)
-YearID (Foreign Key → Year.YearID)
+Year
 Measurements
 
 Primary Key: (ISO3, CTSCode, YearID)
@@ -32,7 +32,7 @@ DataRevision
 RevisionNumber (Primary Key)
 ISO3
 CTSCode
-YearID
+Year
 RevisionDate
 Notes
 
