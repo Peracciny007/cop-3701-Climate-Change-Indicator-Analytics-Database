@@ -4,9 +4,9 @@ import os
 
 LIB_DIR = r"C:\Users\perac\PythonOracle_Proj\instantclient_23_0"
 
-DB_USER = "PERACCINY007_SCHEMA_PW850"
-DB_PASS = "DMSE!1CDYT9N64F1rTRG3K75EGRM1I"
-DB_DSN  = "db.freesql.com:1521/23ai_34ui2"
+DB_USER = "nuh uh"
+DB_PASS = "nuh uh"
+DB_DSN  = "nuh uh"
 
 try:
     oracledb.init_oracle_client(lib_dir=LIB_DIR)
