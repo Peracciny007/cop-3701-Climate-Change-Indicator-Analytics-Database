@@ -1,5 +1,6 @@
 Here is the climate ER diagram 
-<img width="906" height="646" alt="image" src="https://github.com/user-attachments/assets/15d3810e-4036-4a30-a70d-99acd7820db3" />
+<img width="1248" height="790" alt="image" src="https://github.com/user-attachments/assets/c967429d-6aee-4b67-92e7-e216140d8727" />
+
 # Final Normalized Relational Schema (BCNF)
 # Final Relational Schema (After Normalization)
 
@@ -28,12 +29,6 @@ IndicatorName
 Unit  
 Source  
 CTSFullDescriptor  
-
----
-
-## Year
-YearID (Primary Key)  
-YearValue  
 
 ---
 
