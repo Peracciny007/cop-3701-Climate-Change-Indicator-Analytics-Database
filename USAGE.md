@@ -2,6 +2,7 @@
 ## How to use:
 - Run preprocess.py
 - Replace the LIB_DIR, DB_USER, and DB_PASS environment variables with your unique values in the .env file
+- Execute create_db.sql or create_db.py file (if not already executed)
 - Run dataload2.py (for ease of use)
 - Run app.py for the main cli application, commands below may be referred to
 
